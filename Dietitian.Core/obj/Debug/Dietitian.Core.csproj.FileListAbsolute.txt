@@ -1,0 +1,7 @@
+c:\users\islam\documents\visual studio 2015\Projects\Dietitian\Dietitian.Core\bin\Debug\Dietitian.Core.dll
+c:\users\islam\documents\visual studio 2015\Projects\Dietitian\Dietitian.Core\bin\Debug\Dietitian.Core.pdb
+c:\users\islam\documents\visual studio 2015\Projects\Dietitian\Dietitian.Core\obj\Debug\Dietitian.Core.dll
+c:\users\islam\documents\visual studio 2015\Projects\Dietitian\Dietitian.Core\obj\Debug\Dietitian.Core.pdb
+C:\Users\Islam\Documents\Visual Studio 2015\Projects\Dietitian\Dietitian.Core\bin\Debug\log4net.dll
+C:\Users\Islam\Documents\Visual Studio 2015\Projects\Dietitian\Dietitian.Core\bin\Debug\log4net.xml
+C:\Users\Islam\Documents\Visual Studio 2015\Projects\Dietitian\Dietitian.Core\obj\Debug\Dietitian.Core.csprojResolveAssemblyReference.cache

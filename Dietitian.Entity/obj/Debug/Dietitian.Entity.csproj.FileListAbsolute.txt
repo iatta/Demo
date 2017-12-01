@@ -1,0 +1,14 @@
+c:\users\islam\documents\visual studio 2015\Projects\Dietitian\Dietitian.Entity\bin\Debug\Dietitian.Entity.dll.config
+c:\users\islam\documents\visual studio 2015\Projects\Dietitian\Dietitian.Entity\bin\Debug\Dietitian.Entity.dll
+c:\users\islam\documents\visual studio 2015\Projects\Dietitian\Dietitian.Entity\bin\Debug\Dietitian.Entity.pdb
+c:\users\islam\documents\visual studio 2015\Projects\Dietitian\Dietitian.Entity\bin\Debug\Dietitian.Core.dll
+c:\users\islam\documents\visual studio 2015\Projects\Dietitian\Dietitian.Entity\bin\Debug\EntityFramework.dll
+c:\users\islam\documents\visual studio 2015\Projects\Dietitian\Dietitian.Entity\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\islam\documents\visual studio 2015\Projects\Dietitian\Dietitian.Entity\bin\Debug\Dietitian.Core.pdb
+c:\users\islam\documents\visual studio 2015\Projects\Dietitian\Dietitian.Entity\bin\Debug\EntityFramework.xml
+c:\users\islam\documents\visual studio 2015\Projects\Dietitian\Dietitian.Entity\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\islam\documents\visual studio 2015\Projects\Dietitian\Dietitian.Entity\obj\Debug\Dietitian.Entity.csprojResolveAssemblyReference.cache
+c:\users\islam\documents\visual studio 2015\Projects\Dietitian\Dietitian.Entity\obj\Debug\Dietitian.Entity.dll
+c:\users\islam\documents\visual studio 2015\Projects\Dietitian\Dietitian.Entity\obj\Debug\Dietitian.Entity.pdb
+C:\Users\Islam\Documents\Visual Studio 2015\Projects\Dietitian\Dietitian.Entity\bin\Debug\log4net.dll
+C:\Users\Islam\Documents\Visual Studio 2015\Projects\Dietitian\Dietitian.Entity\bin\Debug\log4net.xml

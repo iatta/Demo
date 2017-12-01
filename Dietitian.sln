@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dietitian.Web", "Dietitian\Dietitian.Web.csproj", "{1DD7A7D3-7633-4E5D-9C87-A71865551BE1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dietitian.Core", "Dietitian.Core\Dietitian.Core.csproj", "{595BAF8E-4576-4F58-B508-3DE76DAF1931}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dietitian.Entity", "Dietitian.Entity\Dietitian.Entity.csproj", "{E4483036-0466-4DF7-861F-618C81AE0443}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dietitian.Service", "Dietitian.Service\Dietitian.Service.csproj", "{F37EEB39-470E-4C4F-8E20-4090330BC0B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1DD7A7D3-7633-4E5D-9C87-A71865551BE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DD7A7D3-7633-4E5D-9C87-A71865551BE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DD7A7D3-7633-4E5D-9C87-A71865551BE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DD7A7D3-7633-4E5D-9C87-A71865551BE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{595BAF8E-4576-4F58-B508-3DE76DAF1931}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{595BAF8E-4576-4F58-B508-3DE76DAF1931}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{595BAF8E-4576-4F58-B508-3DE76DAF1931}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{595BAF8E-4576-4F58-B508-3DE76DAF1931}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4483036-0466-4DF7-861F-618C81AE0443}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4483036-0466-4DF7-861F-618C81AE0443}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4483036-0466-4DF7-861F-618C81AE0443}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4483036-0466-4DF7-861F-618C81AE0443}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F37EEB39-470E-4C4F-8E20-4090330BC0B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F37EEB39-470E-4C4F-8E20-4090330BC0B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F37EEB39-470E-4C4F-8E20-4090330BC0B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F37EEB39-470E-4C4F-8E20-4090330BC0B2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
